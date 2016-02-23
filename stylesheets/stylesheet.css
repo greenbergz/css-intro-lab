@@ -25,6 +25,11 @@ body {
 .container .page-header {
   background-color: yellow;
 }
+
+.container .page-header {
+  background-color: purple;
+}
+
 section {
     margin: 3em 0;
 }
